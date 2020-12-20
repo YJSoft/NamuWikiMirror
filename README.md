@@ -1,2 +1,2 @@
-# NamuWikiMirror
-Source code for https://mirror.yjsoft.xyz
+# 나무위키 미러
+현재 미러서버 이전중입니다. 종료 시간은 미정입니다.

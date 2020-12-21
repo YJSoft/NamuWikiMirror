@@ -4,3 +4,5 @@
 ## 임시 다운로드 주소
 - [namuwiki200302.7z](https://dl.yjsoft.xyz/KVsfmH)
 - [namuwiki190312.7z](https://dl.yjsoft.xyz/WyVPzf)
+
+[go](http://stackoverflow.com){:target="_blank"}
